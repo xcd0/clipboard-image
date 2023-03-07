@@ -1,3 +1,3 @@
-module github.com/skanehira/clipboard-image/v2
+module github.com/xcd0/clipboard-image
 
 go 1.14
